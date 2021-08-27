@@ -121,7 +121,7 @@ Go to downloaded folder
 jupyter notebook Tennis_final.ipynb
 
 To Run testing.
-Go to Single agent folder
+Go to downloaded folder
 jupyter notebook Testing.ipynb
 
 ```
